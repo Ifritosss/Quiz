@@ -1,0 +1,150 @@
+{
+    "perguntas": [
+        {
+            "questaoN1": {
+                "descricao": "Você sabe o que é o Covid-19?",
+                    "alternativas": {
+                        "A":"Uma bactria",
+                        "B":"Um vírus",
+                        "C":"Uma pandemia",
+                        "D":"Uma comida"
+                    },
+                "AlternativaCerta": "B"
+            } 
+        },
+        {
+            "questaoN2": {
+                "descricao": "O que é recomendado usar nas mãos para a dedetização da mesma?",
+                    "alternativas": {
+                        "A":"Água Sanitária",
+                        "B":"Água",
+                        "C":"Álcool em Gel",
+                        "D":"Sabão em pó"
+                    },
+                "AlternativaCerta": "C"
+            } 
+        },
+        {
+            "questaoN3": {
+                "descricao": "Qual o acessório se tornou obrigatório durante a pandemia do novo coronavírus?",
+                    "alternativas": {
+                        "A":"Máscara",
+                        "B":"Luva",
+                        "C":"Meia",
+                        "D":"Chapéu"
+                    },
+                "AlternativaCerta": "A"
+                } 
+        },
+        {
+            "questaoN4": {
+                "descricao": "Em quantos dias em média os sintomas do coronavírus começa a aparecer?",
+                    "alternativas": {
+                        "A":"8 dias",
+                        "B":"20 dias",
+                        "C":"13 dias",
+                        "D":"14 dias"
+                    },
+                "AlternativaCerta": "D"
+                } 
+        },
+        {
+            "questaoN5": {
+                "descricao": "Quais desses NÃO é um sintoma do vírus?",
+                    "alternativas": {
+                        "A":"Tosse",
+                        "B":"Febre",
+                        "C":"Falta de Ar",
+                        "D":"Queda de cabelo"
+                    },
+                "AlternativaCerta": "D"
+                } 
+        },
+        {
+            "questaoN6": {
+                "descricao": "Qual destes não faz parte dos sintomas mais comuns de COVID-19?",
+                    "alternativas": {
+                        "A":"Tosse Seca",
+                        "B":"Febre",
+                        "C":"Dor de Cabeça",
+                        "D":"Cansaço"
+                    },
+                "AlternativaCerta": "C"
+                } 
+        },
+        {
+            "questaoN7": {
+                "descricao": "Qual destes exames é o que permite o diagnóstico precoce da SARS-COVID-19?",
+                    "alternativas": {
+                        "A":"RT-PCR",
+                        "B":"Sorologia",
+                        "C":"Hemograma",
+                        "D":"Tomografia Computadorizada"
+                    },
+                "AlternativaCerta": "A"
+                } 
+        },
+        {
+            "questaoN8": {
+                "descricao": "Qual é a cidade considerada o berço da pandemia por Coronavírus?",
+                    "alternativas": {
+                        "A":"Pequim",
+                        "B":"Wuhan",
+                        "C":"Xangai",
+                        "D":"Taijin"
+                    },
+                "AlternativaCerta": "B"
+                } 
+        },
+        {
+            "questaoN9": {
+                "descricao": "Qual é o tempo mínimo de sobrevivência do Coronavírus no ar?",
+                    "alternativas": {
+                        "A":"30 minutos",
+                        "B":"40 minutos",
+                        "C":"50 minutos",
+                        "D":"60 minutos"
+                    },
+                "AlternativaCerta": "B"
+                } 
+        },
+        {
+            "questaoN10": {
+                "descricao": "Quantos por cento há de chance de transmissão, caso somente a pessoa infectada esteja de máscara?",
+                    "alternativas": {
+                        "A":"1,5%",
+                        "B":"3%",
+                        "C":"5%",
+                        "D":"7,5%"
+                    },
+                "AlternativaCerta": "C"
+                } 
+        },
+        {
+            "questaoN11": {
+                "descricao": "De acordo com o Ministério da Saúde, qual foi o primeiro estado brasileiro a diagnosticar a COVID-19 em um paciente?",
+                    "alternativas": {
+                        "A":"Rio de Janeiro",
+                        "B":"Ceará",
+                        "C":"Santa Catarina",
+                        "D":"São Paulo"
+                    },
+                "AlternativaCerta": "D"
+                } 
+        },
+        {
+            "questaoN12": {
+                "descricao": "Quando é feito o exame de tomografia computadorizada, para a pesquisa de comprometimento pulmonar, a alteração característica causada pelo coronavírus é denominada:",
+                    "alternativas": {
+                        "A":"Vidro Fosco",
+                        "B":"Infiltrados Algodonosos",
+                        "C":"Enfisema",
+                        "D":"Atelectasia"
+                    },
+                "AlternativaCerta": "A"
+                } 
+        }
+        
+    ]       
+
+}
